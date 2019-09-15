@@ -1,0 +1,38 @@
+* {
+	font-family: "Source Sans Pro", sans-serif;
+}
+
+h1 {
+	font-weight: 700;
+	letter-spacing: -1px;
+	position: relative;
+	color: #985809;
+}
+
+body {
+	background-color: black;
+}
+
+.BTNdisabled {
+	cursor: not-allowed;
+}
+
+.alert {
+	background-color: #985809;
+	border: 0;
+	color: #ccc;
+}
+
+
+#particles-js {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background: #000;
+	top: 0;
+}
+
+canvas {
+	display: block;
+	vertical-align: bottom;
+}
